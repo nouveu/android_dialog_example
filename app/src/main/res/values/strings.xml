@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HowDoExamples</string>
+    <string name="title_activity_dialog">Dialog Example</string>
+    <string name="title_activity_dialog2">Dialog Example 2</string>
+</resources>
